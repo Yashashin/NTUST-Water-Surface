@@ -1,0 +1,18 @@
+﻿  TrainView.cpp
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(187,21): warning C4101: 'nrChannels': 未參考的區域變數
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(708,47): warning C4267: '=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(957,85): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(994,85): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(995,93): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(996,95): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1012,89): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1013,93): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1046,98): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1047,100): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1062,94): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1063,98): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1086,67): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1087,67): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1265,12): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1266,12): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  WaterSurface.vcxproj -> D:\WaterSurface-master\WaterSurface-master\Debug\WaterSurface.exe

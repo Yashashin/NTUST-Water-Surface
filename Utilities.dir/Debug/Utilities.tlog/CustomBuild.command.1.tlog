@@ -1,0 +1,10 @@
+^D:\WATERSURFACE-MASTER\WATERSURFACE-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/WaterSurface-master/WaterSurface-master -BD:/WaterSurface-master/WaterSurface-master --check-stamp-file D:/WaterSurface-master/WaterSurface-master/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/WaterSurface-master/WaterSurface-master/CMakeLists.txt
+  ArcBallCam.cpp
+D:\WaterSurface-master\WaterSurface-master\src\Utilities\ArcBallCam.cpp(303,12): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  3DUtils.cpp
+  Pnt3f.cpp
+D:\WaterSurface-master\WaterSurface-master\src\Utilities\Pnt3f.cpp(78,11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  Utilities.vcxproj -> D:\WaterSurface-master\WaterSurface-master\Debug\Utilities.lib
