@@ -6,4 +6,6 @@
 
 _Executable file in /Release/WaterSurface.exe_
 
+See screenshots in **Introduction.pdf**
+
 _IDE: Visual Studio 2019_
